@@ -12,6 +12,6 @@ The project used the waterfall technique to build a desktop software for a compa
 
 ## Authors
 
-* [Ismail Faruk](https://github.com/ismailfaruk)
+* [**Ismail Faruk**](https://github.com/ismailfaruk)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
