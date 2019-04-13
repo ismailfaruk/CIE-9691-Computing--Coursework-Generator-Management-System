@@ -10,6 +10,9 @@ The project used the waterfall technique to build a desktop software for a compa
 
 * [Visual Basic 6.0](https://en.wikipedia.org/wiki/Visual_Basic) - The programming environment used
 
+## Project Report
+* [**GMS REPORT**](GMS%20CW%20Document.pdf)
+
 ## Authors
 
 * [**Ismail Faruk**](https://github.com/ismailfaruk)
